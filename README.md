@@ -26,7 +26,7 @@ Here, I will demonstrate how to configure and test Pintos in Ubuntu:
    sudo apt install build-essential libncurses5-dev texinfo libx11-dev libxrandr-dev
    ```
    
-5. Copy the following contents to the file `/home/username/pintos-anon/src/misc/bochs-build.sh` (You may need to create that file), run bash command `./bochs-build.sh ./bochs` inside the `misc` folder
+5. Copy the following contents to the file `/home/username/pintos-anon/src/misc/bochs-build.sh` (You may need to create that file), run bash command `./bochs-build.sh ./bochs` inside the `misc/` folder
 
    ```bash
    #! /bin/bash
