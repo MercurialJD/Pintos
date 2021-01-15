@@ -106,7 +106,7 @@ Here, I will demonstrate how to configure and test Pintos in Ubuntu:
 
 ## Implementation
 
-You can find the documents of the four projects in the corresponding folders.
+You can find the design documents (Markdown version) of the four projects in the corresponding folders.
 
 
 
