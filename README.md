@@ -6,7 +6,7 @@ This repo contains an implementation of Pintos, a simple operating system for th
 
 ## Acknowledgements
 
-This project adopts from the course project of Operating Systems 2020 Fall at Shanghaitech University, and was completed with [Cunhan You](https://github.com/youcunhan).
+This project adopts from the course project of Operating Systems 2020 Fall at Shanghaitech University, and was completed with [Cunhan You](https://github.com/youcunhan) under the instruction and guidance of *Pintos_Official_Doc* and *Pintos_Guide*.
 
 
 
